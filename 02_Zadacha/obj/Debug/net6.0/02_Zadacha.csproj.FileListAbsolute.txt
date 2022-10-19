@@ -1,0 +1,15 @@
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\bin\Debug\net6.0\02_Zadacha.exe
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\bin\Debug\net6.0\02_Zadacha.deps.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\bin\Debug\net6.0\02_Zadacha.runtimeconfig.json
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\bin\Debug\net6.0\02_Zadacha.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\bin\Debug\net6.0\02_Zadacha.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.csproj.AssemblyReference.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.AssemblyInfoInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.AssemblyInfo.cs
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.csproj.CoreCompileInputs.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\refint\02_Zadacha.dll
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.pdb
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\02_Zadacha.genruntimeconfig.cache
+C:\Users\spysf\OneDrive\Рабочий стол\GeekBrains\C#\Home_01\02_Zadacha\obj\Debug\net6.0\ref\02_Zadacha.dll
